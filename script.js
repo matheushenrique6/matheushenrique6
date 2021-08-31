@@ -80,7 +80,7 @@ if(hora == 7 && minuto >= 30 && hora < 8 && agora == 1){
     ad.innerHTML ='QUIMÍCA - https://fundacaobradesco.webex.com/meet/valdemir.figueredo'
 }else if (hora == 11 && minuto >= 10  && minuto < 50 && agora == 2 ){
     ad.innerHTML =' FÍSICA - https://fundacaobradesco.webex.com/meet/clayton.santos'
-}else if (hora == 11 && minuto >= 50 && minuto < 40  && agora == 2 ){
+}else if (hora == 11 && minuto >= 50 && hora < 12  && agora == 2 ){
     ad.innerHTML ='ESPANHOL - https://fundacaobradesco.webex.com/meet/bruna.martiniani'
 }else if (hora == 7 && minuto >= 30 && hora < 8  && agora == 3 ){
     ad.innerHTML =' GEOGRAFIA - https://fundacaobradesco.webex.com/meet/fabio.policarpo'

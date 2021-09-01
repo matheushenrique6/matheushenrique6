@@ -90,7 +90,7 @@ if(hora == 7 && minuto >= 30 && hora < 8 && agora == 1){
     ad.innerHTML ='INTERVALO'
 }else if (hora == 9 && minuto < 40  && agora == 3 ){
     ad.innerHTML ='FILOSOFIA - https://fundacaobradesco.webex.com/meet/jackson.freitas'
-}else if (hora == 9 && minuto >= 40 && minuto < 20  && agora == 3 ){
+}else if (hora == 9 && minuto >= 40 && hora < 10 && agora == 3 ){
     ad.innerHTML =' LP - https://fundacaobradesco.webex.com/meet/sandra.baptista'
 }else if (hora == 10 && minuto >= 20 && minuto < 30 && agora == 3 ){
     ad.innerHTML =' INTERVALO'

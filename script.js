@@ -122,7 +122,7 @@ if(hora == 7 && minuto >= 30 && hora < 8 && agora == 1){
     ad.innerHTML ='Biologia –  https://fundacaobradesco.webex.com/meet/luan.miolo'
 }else if (hora == 8 && minuto >= 50  && hora < 9 && agora == 5 ){
     ad.innerHTML ='INTERVALO'
-}else if (hora == 9 && minuto < 40  && agora == 3 ){
+}else if (hora == 9 && minuto < 40  && agora == 5 ){
     ad.innerHTML =' LP – https://fundacaobradesco.webex.com/meet/sandra.baptista'
 }else if (hora == 9 && minuto >= 40 && hora < 10  && agora == 5 ){
     ad.innerHTML =' Química – https://fundacaobradesco.webex.com/meet/valdemir.figueredo'
